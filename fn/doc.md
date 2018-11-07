@@ -1,14 +1,14 @@
 # 这是node中写一些小方法的文档 #
 <br>
 
-- [buufer's](#myconcat)
+- [buufer集合实现拼接的方法](#myconcat)
+- [循环创建文件的createPDir(path)方法](#createpdir)
 
 
-<a href="#createpdir">循环创建文件的createPDir(path)方法</a>
 
 
 <br><br><br><br><br><br><br><br><br><br><br>
-## <div name="myConcat" id="myconcat">myConcat(list,totalLength)方法</div> ##
+## <div name="myconcat" id="myconcat">myConcat(list,totalLength)方法</div> ##
 
 ``` 实现的功能是：通过buffer实现buffer之间数据的拼接。```
 
@@ -21,7 +21,7 @@ list指的buffer的集合，totalLength是传递进来拼接后的长度。
 - 3，通过copy方法实现buffer的拷贝
 - 4，返回新的buffer
 
-<div name="createPDir" id="createPDir">创建嵌套的文件createPDir(path)</div>
+<div name="createpdir" id="createpdir">创建嵌套的文件createPDir(path)</div>
 
 ``` 通过这个函数实现文件的循环创建，通过mkdir一次性创建a/b/c/d/e等 ```
 
