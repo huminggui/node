@@ -1,6 +1,6 @@
 # 这是node中写一些小方法的文档 #
 <br>
-[buufer结合的拼接方法](#myconcat)
+[buufer's](#myconcat)
 
 <a href="#createpdir">循环创建文件的createPDir(path)方法</a>
 
