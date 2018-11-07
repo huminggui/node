@@ -1,7 +1,7 @@
 # 这是node中写一些小方法的文档 #
 <br>
-- <a href="#myConcat">myConcat(list,totalLength)方法</a>
-- <a href="#createPDir">循环创建文件的createPDir(path)方法</a>
+<a href="#myConcat">myConcat(list,totalLength)方法</a>
+<a href="#createPDir">循环创建文件的createPDir(path)方法</a>
 
 
 <br><br><br><br><br><br><br><br><br><br><br>
