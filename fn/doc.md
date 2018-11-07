@@ -1,12 +1,14 @@
 # 这是node中写一些小方法的文档 #
 <br>
-[buufer's](#myconcat)
+
+- [buufer's](#myconcat)
+
 
 <a href="#createpdir">循环创建文件的createPDir(path)方法</a>
 
 
 <br><br><br><br><br><br><br><br><br><br><br>
-## <div name="myConcat" id="myConcat">myConcat(list,totalLength)方法</div> ##
+## <div name="myConcat" id="myconcat">myConcat(list,totalLength)方法</div> ##
 
 ``` 实现的功能是：通过buffer实现buffer之间数据的拼接。```
 
