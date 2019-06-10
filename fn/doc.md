@@ -28,3 +28,18 @@ list指的buffer的集合，totalLength是传递进来拼接后的长度。
 -   参数：path 是一个路径
 -   使用的方法分别是：mkdir 以及 fs.stat(...)方法
 -   使用的是递归的原理实现的：通过fs.stat方法判断文件是否存在，如果不存在创建，如果存在则继续调用创建的文件的函数。
+
+<br>
+<br>
+
+
+## 实现es6的几个方法 [fn.js] ##
+- reduce （持续的方法）
+- filter （过滤）
+- copy （深拷贝）
+- find（查找方法）
+- some （只要一个返回为true就可以）
+- hit(生成器) 
+
+
+## 实现node.js中的events模块[hevents.js] ##
